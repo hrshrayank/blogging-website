@@ -18,12 +18,12 @@ This repository contains the source code for a blogging website, divided into th
 
 ## Backend
 
-The backend is built using TypeScript and Aviem SQL ORM. It is hosted on Cloudflare.
+The backend is built using TypeScript and Aiven SQL ORM. It is hosted on Cloudflare.
 
 ### Technologies Used
 
 - TypeScript
-- Aviem SQL ORM
+- Aiven SQL ORM
 - Cloudflare
 
 ## Common
@@ -36,6 +36,6 @@ Zod
 The frontend is built using Vite and Typescript, with client-side routing.
 
 ### Technologies Used
-Vite
-Typescript
-React Router
+- Vite
+- Typescript
+- React Router
