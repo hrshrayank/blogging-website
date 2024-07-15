@@ -14,7 +14,7 @@ export const BlogCard = ({ blog }: { blog: any }) => {
           <div className="font-medium">Author</div>
           <div className="flex gap-3 mt-2 justify-center items-center">
             <div>
-              <Avatar name={blog.author.name} size="10" />
+              <Avatar name={blog.author.name} size="8" />
             </div>
             <div className="flex flex-col">
               <div className="font-bold text-lg">{blog.author.name}</div>

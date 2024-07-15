@@ -41,16 +41,16 @@ export const BlogsCard = ({
 
 export const Avatar = ({
   name,
-  size = "6",
+  size = "8",
 }: {
   name: string;
   size?: string;
 }) => {
   return (
     <div
-      className={`relative inline-flex items-center justify-center w-${size} h-${size} overflow-hidden bg-gray-500 rounded-full dark:bg-gray-600`}
+      className={`relative inline-flex items-center justify-center w-${size} h-${size} overflow-hidden bg-gray-300 rounded-full`}
     >
-      <span className="font-light text-gray-300 dark:text-gray-300">
+      <span className="font-light text-black">
         {name[0]}
       </span>
     </div>

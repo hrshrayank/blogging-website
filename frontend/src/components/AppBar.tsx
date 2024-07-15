@@ -30,7 +30,7 @@ export const AppBar = () => {
           </button>
         </Link>
         <div onClick={handleAvatarClick} className="cursor-pointer inline-block">
-          <Avatar name="Shrayank" size="10" />
+          <Avatar name="Shrayank" size="8" />
         </div>
         {dropdownVisible && (
           <div className="absolute right-0 mt-2 w-48 bg-white border rounded-lg shadow-lg">
