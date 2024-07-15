@@ -15,8 +15,6 @@ This repository contains the source code for a blogging website, divided into th
   - [Technologies Used](#technologies-used-2)
   - [Setup and Installation](#setup-and-installation-2)
   - [Running the Frontend](#running-the-frontend)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Backend
 
