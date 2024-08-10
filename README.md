@@ -18,12 +18,12 @@ This repository contains the source code for a blogging website, divided into th
 
 ## Backend
 
-The backend is built using TypeScript and Aiven SQL ORM. It is hosted on Cloudflare.
+The backend is built using TypeScript and Prisma. It is hosted on Cloudflare.
 
 ### Technologies Used
 
 - TypeScript
-- Aiven SQL ORM
+- Prisma
 - Cloudflare
 
 ## Common
